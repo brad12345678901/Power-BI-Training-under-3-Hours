@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=I0vQ_VLZTWg --> Video Source
 
 
 ## Here's the result of my Final Project
-<img width="2079" height="1167" alt="Screenshot 2026-05-23 224415" src="https://github.com/user-attachments/assets/14b03a3a-e41a-4f18-a274-7d56b670c60e" />
+<img width="1914" height="1075" alt="Screenshot 2026-05-23 230225" src="https://github.com/user-attachments/assets/499ea428-9ef8-4b76-912f-2c55a37cbbc0" />
+
 
 An actual survey results conducted by the Author of the Video, basically a survey about data analytics as a profession and what people think about it.
 
