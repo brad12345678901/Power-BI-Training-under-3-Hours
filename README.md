@@ -1,6 +1,6 @@
 # Power BI Training under 3 Hours
 
-This Git Repostiry was created to train myself, gain knowledge and technical skills on using Power BI while developing my future going into a Data Profession. Following files the things i did throughout the session while learning Power BI
+This Git Repository was created to train myself, gain knowledge and technical skills on using Power BI while developing my future going into a Data Profession. Following files the things i did throughout the session while learning Power BI
 
 https://www.youtube.com/watch?v=I0vQ_VLZTWg --> Video Source
 
